@@ -97,7 +97,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-web-app-release</name>
+	      <name>maven-web-release</name>
 	      <url>http://54.233.13.173:8081/repository/maven-web-app-release/</url>
 	    </repository>
 	    
